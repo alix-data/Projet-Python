@@ -1,1 +1,11 @@
-
+openpyxl
+pandas
+geopandas
+cartiflette
+matplotlib
+zipfile
+io
+requests
+numpy
+scikit-learn
+Jinja2
