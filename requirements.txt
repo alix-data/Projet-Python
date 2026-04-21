@@ -3,8 +3,6 @@ pandas
 geopandas
 cartiflette
 matplotlib
-zipfile
-io
 requests
 numpy
 scikit-learn
